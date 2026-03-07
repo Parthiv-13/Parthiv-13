@@ -1,5 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:00BFFF&height=250&section=header&text=Hello,%20This%20is%20Parthiv%20%F0%9F%91%8B&fontSize=45&animation=fadeIn&fontAlignY=38&desc=S-Rank%20Full%20Stack%20Hunter&descAlignY=55&descAlign=50" alt="Anime Header" />
+  <h1>Hello, This is Parthiv 👋</h1>
+  <p><h3>💻 Full Stack Developer | Problem Solver | Continuous Learner</h3></p>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Building+Innovative+Solutions;Developing+Scalable+Backends;Exploring+Artificial+Intelligence" alt="Typing SVG" />
+  </a>
+  
+  <br><br>
+  
+  <img src="https://komarev.com/ghpvc/?username=Parthiv-13&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Parthiv-13?style=for-the-badge&color=A855F7&labelColor=555555&logo=github&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Parthiv-13?style=for-the-badge&color=A855F7&labelColor=555555&logo=github&label=STARS" alt="Stars" />
   
   <br><br>
   
