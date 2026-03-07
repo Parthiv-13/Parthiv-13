@@ -1,101 +1,108 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Parthiv%20%7C%20Aspiring%20Data%20Scientist&fontSize=40&animation=fadeIn&fontAlignY=38&desc=B.Tech%20IT%20Student&descAlignY=55&descAlign=50" alt="Animated Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist&descAlignY=55&descAlign=50" alt="Animated Header" />
 </div>
 
 <div align="center">
+  <h1>👋 Hello, I'm Parthiv 👨‍💻</h1>
+  <strong>🦅 Aspiring Data Scientist | Python Developer | Continuous Learner</strong>
+  <br><br>
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist;Python+Developer;AI+Enthusiast;Backend+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist;Python+Enthusiast;AI+Explorer;Backend+Developer" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <br>
-  <h3><i>"A real man forgives a woman’s lies."</i><br><br>— Sanji</h3>
-  <br>
+  <img src="https://komarev.com/ghpvc/?username=Parthiv-13&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/Parthiv-13?tab=followers"><img src="https://img.shields.io/github/followers/Parthiv-13?color=A855F7&style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers" /></a>
+  <a href="https://github.com/Parthiv-13"><img src="https://img.shields.io/github/stars/Parthiv-13?color=A855F7&style=for-the-badge&logo=github&label=STARS" alt="Stars" /></a>
 </div>
 
-## 🙋‍♂️ About Me
-
-- 🎓 **B.Tech IT student** passionate about building real-world software solutions.
-- 🐍 Actively learning and building projects with **Python** and **Artificial Intelligence**.
-- 💡 Interested in backend systems, scalable architectures, and creating impactful technology.
-- 🎯 Career Goal: **Aspiring Data Scientist**
-- 📫 How to reach me: **[Add your email here]**
-
-## 🤝 Connect with me
-
-<div align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</div>
-
-## 💻 Tech Stack
-
-### 🔹 Languages & Core
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-</div>
-
-### 🔹 Frameworks & Libraries
-<div align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
-</div>
-
-### 🔹 Databases & Tools
-<div align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
-
-## 📈 GitHub Metrics
-
-<div align="center">
-  <a href="https://github.com/Parthiv-13">
-    <img src="https://github-readme-stats.vercel.app/api?username=Parthiv-13&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Parthiv-13">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthiv-13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## �‍💻 About Me
+
+```javascript
+const parthiv = {
+    location: "🌍 Earth",
+    education: ["B.Tech IT Student"],
+    code: ["Python", "JavaScript", "HTML", "CSS", "SQL"],
+    askMeAbout: ["Data Science", "AI/ML", "Backend Dev", "Problem Solving"],
+    technologies: {
+        backend: ["FastAPI", "Django", "Flask", "Node.js"],
+        databases: ["MongoDB", "SQL"]
+    },
+    currentGoals: "Aspiring Data Scientist",
+    funFact: "Always eager to build impactful tech!"
+};
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📈 Streak Statistics
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthiv-13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 📊 GitHub Activity
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthiv-13&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Parthiv-13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 
-## 🚀 Featured Projects
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-| 💧 AI Water Contamination Detection | 🧮 FastAPI Calculator API | 📚 Data Science Learning Journey |
-| :---: | :---: | :---: |
-| *Detects water contamination using AI models.* | *Robust API for calculations built with FastAPI.* | *A curated log of my path towards Data Science.* |
+## 💻 Technology Stack
 
-## 🐍 Contribution Snake
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" width="33%"><h3>Languages</h3></td>
+    <td align="center" width="33%"><h3>Frameworks & Libraries</h3></td>
+    <td align="center" width="33%"><h3>Tools & Platforms</h3></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /><br><br>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /><br><br>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" /><br><br>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /><br><br>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
+    </td>
+  </tr>
+</table>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthiv-13&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## � Eating My Contributions!
 
 <div align="center">
   <picture>
@@ -106,9 +113,36 @@
 </div>
 
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 Connect With Me
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Parthiv-13&color=00BFFF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Parthiv-13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💬 Quote of the Day
+
+<div align="center">
+  <blockquote>
+    <i><h3 align="center">"A real man forgives a woman’s lies."</h3></i>
+    <p align="right">— Sanji</p>
+  </blockquote>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+  <br>
+  <b>💼 Open for Opportunities | 🤝 Let's Collaborate | 📧 Feel Free to Reach Out</b>
+  <br><br>
 </div>
 
 <div align="center">
