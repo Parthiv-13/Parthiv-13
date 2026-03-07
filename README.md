@@ -3,7 +3,7 @@
   <p><h3>💻 Full Stack Developer | Problem Solver | Continuous Learner</h3></p>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Building+Innovative+Solutions;Full+Stack+Developer;Exploring+Artificial+Intelligence" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Building+Innovative+Solutions;Full+Stack+Developer;Exploring+Artificial+Intelligence" alt="Typing SVG" />
   </a>
   
   <br><br>
