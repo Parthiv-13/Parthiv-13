@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:00BFFF&height=250&section=header&text=Parthiv%20%7C%20Awakened%20Data%20Scientist&fontSize=45&animation=fadeIn&fontAlignY=38&desc=S-Rank%20Full%20Stack%20Hunter&descAlignY=55&descAlign=50" alt="Anime Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:00BFFF&height=250&section=header&text=Hello,%20This%20is%20Parthiv%20%F0%9F%91%8B&fontSize=45&animation=fadeIn&fontAlignY=38&desc=S-Rank%20Full%20Stack%20Hunter&descAlignY=55&descAlign=50" alt="Anime Header" />
   
   <br><br>
   
@@ -111,14 +111,24 @@ System Design            ▓▓▓▓▓▓▓░░░ [75/100]
 
 ---
 
-## ☄️ DEVELOPER AURA
+## ☄️ DEVELOPER AURA (System Telemetry)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parthiv-13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A855F7&icon_color=00BFFF&text_color=00ff00" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthiv-13&theme=tokyonight&hide_border=true&background=000000&ring=A855F7&fire=00BFFF&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00" alt="GitHub Streak" width="48%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthiv-13&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A855F7&text_color=00ff00" alt="Top Languages" width="48%" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <b>🌀 Aura Capacity (GitHub Stats)</b><br>
+      <i>Total computational energy & commit streaks</i><br><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=Parthiv-13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A855F7&icon_color=00BFFF&text_color=00ff00" alt="GitHub Stats" />
+      <br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthiv-13&theme=tokyonight&hide_border=true&background=000000&ring=A855F7&fire=00BFFF&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00" alt="GitHub Streak" />
+    </td>
+    <td align="center" width="50%">
+      <b>📖 Grimoire Insights (Top Languages)</b><br>
+      <i>Most wielded technological incantations</i><br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthiv-13&layout=donut&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A855F7&text_color=00ff00" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
