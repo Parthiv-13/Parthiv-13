@@ -99,14 +99,20 @@ if __name__ == "__main__":
 
 ### 📈 Telemetry (GitHub Stats)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parthiv-13&show_icons=true&theme=tokyonight&hide_border=true&ring_color=00BFFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthiv-13&theme=tokyonight&hide_border=true&ring=00BFFF&fire=00BFFF" alt="GitHub Streak" width="48%" />
-</div>
+<p align="center">
+  <a href="https://github.com/Parthiv-13">
+    <img src="https://github-readme-stats.vercel.app/api?username=Parthiv-13&show_icons=true&theme=tokyonight&hide_border=true&ring_color=00BFFF" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Parthiv-13">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthiv-13&theme=tokyonight&hide_border=true&ring=00BFFF&fire=00BFFF" alt="GitHub Streak" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Parthiv-13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
+<p align="center">
+  <a href="https://github.com/Parthiv-13">
+    <img src="https://github-profile-trophy.vercel.app/?username=Parthiv-13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</p>
 
 ---
 
