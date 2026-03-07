@@ -31,11 +31,12 @@ class Parthiv(Developer):
     ]
 ```
 
+---
+
+## 💻 Quote of the Day
+
 <div align="center">
-  <blockquote>
-    <i><h2>"A real man forgives a woman’s lies."</h2></i>
-    <p align="right"><b>— Sanji (One Piece)</b></p>
-  </blockquote>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
 </div>
 
 ---
