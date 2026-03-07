@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00BFFF&text=Parthiv%20%7C%20Aspiring%20Data%20Scientist&fontSize=45&height=100" alt="Animated Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20This%20is%20Parthiv%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20Data%20Scientist&descAlignY=55&descAlign=50" alt="Animated Header" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 <div align="center">
   <blockquote>
-    <i><h2>"A real man forgives a woman’s lies."</h2></i>
+    <i><h2>"A real man forgives when a woman lies."</h2></i>
     <p align="right"><b>— Vinsmoke Sanji</b></p>
   </blockquote>
 </div>
