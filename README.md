@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A855F7&text=Parthiv%20%7C%20Aspiring%20Data%20Scientist&fontSize=45&desc=Full%20Stack%20Developer%20&%20AI%20Enthusiast&descAlignY=65&descAlign=50" alt="Animated Header" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00BFFF&text=Parthiv%20%7C%20Aspiring%20Data%20Scientist&fontSize=45&height=100" alt="Animated Header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Aspiring+Data+Scientist;Python+Alchemist;AI+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Aspiring+Data+Scientist;Python+Alchemist;AI+Explorer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -57,8 +57,8 @@ if __name__ == "__main__":
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Parthiv-13&color=A855F7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <a href="https://github.com/Parthiv-13?tab=followers"><img src="https://img.shields.io/github/followers/Parthiv-13?color=A855F7&style=flat-square&logo=github&label=FOLLOWERS" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Parthiv-13&color=00BFFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/Parthiv-13?tab=followers"><img src="https://img.shields.io/github/followers/Parthiv-13?color=00BFFF&style=flat-square&logo=github&label=FOLLOWERS" alt="Followers" /></a>
 </div>
 
 ### ⚙️ Engine Room & Arsenal
@@ -100,8 +100,8 @@ if __name__ == "__main__":
 ### 📈 Telemetry (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parthiv-13&show_icons=true&theme=tokyonight&hide_border=true&ring_color=A855F7" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthiv-13&theme=tokyonight&hide_border=true&ring=A855F7&fire=A855F7" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parthiv-13&show_icons=true&theme=tokyonight&hide_border=true&ring_color=00BFFF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthiv-13&theme=tokyonight&hide_border=true&ring=00BFFF&fire=00BFFF" alt="GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
