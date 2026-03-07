@@ -97,22 +97,34 @@ if __name__ == "__main__":
 
 ---
 
-### 📈 Telemetry (GitHub Stats)
+### 📈 Telemetry Hub
 
-<p align="center">
-  <a href="https://github.com/Parthiv-13">
-    <img src="https://github-readme-stats.vercel.app/api?username=Parthiv-13&show_icons=true&theme=tokyonight&hide_border=true&ring_color=00BFFF" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Parthiv-13">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthiv-13&theme=tokyonight&hide_border=true&ring=00BFFF&fire=00BFFF" alt="GitHub Streak" />
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <b>🧠 Developer Metrics</b><br>
+      <i>Real-time GitHub statistics & footprint</i><br><br>
+      <a href="https://github.com/Parthiv-13">
+        <img src="https://github-readme-stats.vercel.app/api?username=Parthiv-13&show_icons=true&theme=tokyonight&hide_border=true&ring_color=00BFFF&title_color=00BFFF&text_color=7aa2f7&icon_color=00BFFF&bg_color=0f172a" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <b>🔥 Activity Streak Matrix</b><br>
+      <i>Consistency & commit heat tracing</i><br><br>
+      <a href="https://github.com/Parthiv-13">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthiv-13&theme=tokyonight&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakNum=7aa2f7&sideNums=7aa2f7&currStreakLabel=7aa2f7&sideLabels=7aa2f7&dates=7aa2f7&background=0f172a" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
+### 🏆 Achievement Hall
+<div align="center">
+  <i>Tokens of consistency, exploration, and coding milestones</i><br><br>
   <a href="https://github.com/Parthiv-13">
-    <img src="https://github-profile-trophy.vercel.app/?username=Parthiv-13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Parthiv-13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=25&column=7&title_color=00BFFF&text_color=7aa2f7" alt="Trophies" />
   </a>
-</p>
+</div>
 
 ---
 
