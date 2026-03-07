@@ -19,6 +19,15 @@
 
 <br>
 
+<div align="center">
+  <blockquote>
+    <i><h2>"A real man forgives when a woman lies."</h2></i>
+    <p align="right"><b>— Vinsmoke Sanji</b></p>
+  </blockquote>
+</div>
+
+<br>    
+
 ```python
 class Parthiv(Developer):
     name = "Parthiv"
@@ -31,14 +40,7 @@ class Parthiv(Developer):
     ]
 ```
 
-<div align="center">
-  <blockquote>
-    <i><h2>"A real man forgives when a woman lies."</h2></i>
-    <p align="right"><b>— Vinsmoke Sanji</b></p>
-  </blockquote>
-</div>
 
-<br>
 
 ---
 
