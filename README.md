@@ -3,6 +3,12 @@
 </div>
 
 <div align="center">
+  <kbd>>_ whoami -> Parthiv_</kbd>
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Building+Innovative+Solutions;Aspiring+Data+Scientist;Backend+Architecture+Enthusiast;Turning+Ideas+Into+Reality" alt="Typing SVG" />
   </a>
@@ -18,7 +24,7 @@
 
 <br>
 
-## 👨‍💻 About Me
+## 👨‍💻 Developer Identity
 
 ```python
 class Parthiv(Developer):
@@ -32,11 +38,77 @@ class Parthiv(Developer):
     ]
 ```
 
+<div align="center">
+  <i>"A real man forgives a woman’s lies." — Sanji (One Piece)</i>
+</div>
 <br>
 
-<h2 align="left">⚡ Technology Stack</h2>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<h2 align="left">🗡️ SYSTEM STATUS WINDOW</h2>
+
+<table align="center" width="100%" style="border-collapse: collapse; border: 1px solid #333; background-color: #0d1117;">
+  <tr>
+    <th colspan="2" align="center" style="color: #A855F7;">
+      Level: B.Tech IT Student | Class: Data Scientist in Training | Guild: Open Source Developers
+    </th>
+  </tr>
+  <tr>
+    <td width="30%"><b>Python Skill</b></td>
+    <td width="70%"><code>██████████████████░░</code> [90/100]</td>
+  </tr>
+  <tr>
+    <td><b>AI & Machine Learning</b></td>
+    <td><code>████████████████░░░░</code> [80/100]</td>
+  </tr>
+  <tr>
+    <td><b>Backend Development</b></td>
+    <td><code>█████████████████░░░</code> [85/100]</td>
+  </tr>
+  <tr>
+    <td><b>Problem Solving</b></td>
+    <td><code>█████████████████░░░</code> [88/100]</td>
+  </tr>
+  <tr>
+    <td><b>System Design</b></td>
+    <td><code>███████████████░░░░░</code> [75/100]</td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="left">💠 NEN CHART (Developer Types)</h2>
+
+* 💪 **Enhancement** → Backend Architecture
+* 🌊 **Emission** → API Development
+* 🧵 **Manipulation** → Data Processing & AI
+* ⛓️ **Conjuration** → Building Tools & Applications
+* ⚡ **Transmutation** → Turning ideas into products
+* 👁️ **Specialization** → Creative problem solving
+
+<br>
+
+<h2 align="left">🤞 DOMAIN EXPANSIONS & CURSED TECHNIQUES</h2>
+
+<details>
+  <summary><b>Data Analysis Domain 🕸️</b></summary>
+  <blockquote><i>Ability: Extract hidden patterns and actionable insights from complex datasets to map the future.</i></blockquote>
+</details>
+
+<details>
+  <summary><b>Backend Domain Expansion ⚙️</b></summary>
+  <blockquote><i>Ability: Construct scalable, highly robust, and unbreakable APIs and backend infrastructures.</i></blockquote>
+</details>
+
+<details>
+  <summary><b>AI Prediction Technique 🔮</b></summary>
+  <blockquote><i>Ability: Master machine learning algorithms to predict unparalleled outcomes and automate realities.</i></blockquote>
+</details>
+
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<h2 align="left">⚔️ TECH STACK ARSENAL</h2>
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
@@ -86,9 +158,36 @@ class Parthiv(Developer):
 
 <br>
 
-<h2 align="left">🧑‍🤝‍🧑 Connect With Me</h2>
+<h2 align="left">📜 MISSION LOG (Projects)</h2>
+
+<table align="center" width="100%" style="border-collapse: collapse; background-color: #0d1117;">
+  <tr style="border-bottom: 2px solid #333;">
+    <th width="15%" align="center">Rank</th>
+    <th width="50%" align="left">Mission Name</th>
+    <th width="35%" align="center">Status</th>
+  </tr>
+  <tr>
+    <td align="center"><b><span style="color:#ff0000">S-Rank</span></b></td>
+    <td>AI Water Contamination Detection System</td>
+    <td align="center"><i>Completed / Deployed 🟢</i></td>
+  </tr>
+  <tr>
+    <td align="center"><b><span style="color:#00BFFF">A-Rank</span></b></td>
+    <td>FastAPI Calculator API</td>
+    <td align="center"><i>Active 🔵</i></td>
+  </tr>
+  <tr>
+    <td align="center"><b><span style="color:#A855F7">B-Rank</span></b></td>
+    <td>Data Science Learning Journey</td>
+    <td align="center"><i>Ongoing Training 🟣</i></td>
+  </tr>
+</table>
+
+<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+<h2 align="left">🧑‍🤝‍🧑 Connect With Me</h2>
 
 <div align="center">
   <br>
@@ -106,21 +205,21 @@ class Parthiv(Developer):
 
 <br>
 
-## 📊 Developer Analytics
+## ☄️ DEVELOPER AURA (Live GitHub Data)
 
 <div align="center">
   <table align="center" width="100%" style="border-collapse: collapse; border: none; background-color: transparent;">
     <tr style="background-color: transparent;">
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Parthiv-13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00BFFF&text_color=00ff00" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Parthiv-13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A855F7&icon_color=00BFFF&text_color=00ff00" alt="GitHub Stats" width="100%" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthiv-13&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=00ff00" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthiv-13&layout=donut&theme=tokyonight&hide_border=true&bg_color=000000&title_color=A855F7&text_color=00ff00" alt="Top Languages" width="100%" />
       </td>
     </tr>
     <tr style="background-color: transparent;">
       <td align="center" colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthiv-13&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=00BFFF&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00" alt="GitHub Streak" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthiv-13&theme=tokyonight&hide_border=true&background=000000&ring=A855F7&fire=00BFFF&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
   </table>
@@ -128,11 +227,11 @@ class Parthiv(Developer):
 
 ---
 
-## 🐍 Contribution Serpent
+## 🐍 CONTRIBUTION SERPENT
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parthiv-13/Parthiv-13/output/github-contribution-grid-snake-dark.svg?color_snake=purple&color_dots=#161b22,#00ff00,#00cccc,#ff00ff,#ff0000">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parthiv-13/Parthiv-13/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=purple&color_dots=#161b22,#00ff00,#00cccc,#ff00ff,#ff0000">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parthiv-13/Parthiv-13/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Parthiv-13/Parthiv-13/output/github-contribution-grid-snake.svg">
   </picture>
